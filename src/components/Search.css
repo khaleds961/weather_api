@@ -1,3 +1,28 @@
-div {
-    border: 25px solid black;
-}
+#input-name{
+    border: none;
+    background-color: transparent;
+    outline: none;
+    color: white;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: 20px;
+  }
+  #input-name:focus{
+  border-bottom: 1px solid #283880;
+  }
+  .app__header{
+    background-color: #759EDA;
+    height: 75px;
+  }
+  button{
+  margin-top:0.8%; ;
+  background-color: #5779C7;
+  color: #283880;
+  padding: 1%;
+  width: 12%;
+  border: none;
+  outline: none;
+  font-size: 15px;
+  
+  }

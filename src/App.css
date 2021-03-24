@@ -23,7 +23,7 @@ body{
 } 
 
 /*  Search bar */
-#input-name{
+/* #input-name{
   border: none;
   background-color: transparent;
   outline: none;
@@ -50,7 +50,7 @@ border: none;
 outline: none;
 font-size: 19px;
 
-}
+} */
 
 /* Current weather */
 .center>img{
@@ -58,6 +58,8 @@ width: 20%;
 height: 20%;
 
 }
+
+/* Center Div
 .center{
   text-align: center; 
   background-color: #9CCEF4;
@@ -91,8 +93,8 @@ height: 20%;
 div {
   border: none;
   
-}
-.cointainer{
+} */
+/* .cointainer{
   display: flex;
   justify-content: space-around;
   background-color:#9CCEF4;
@@ -110,4 +112,4 @@ height: 100px;
 }
 .time{
   font-weight: bold;
-}
+} */
